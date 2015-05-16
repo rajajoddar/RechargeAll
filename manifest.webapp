@@ -1,0 +1,16 @@
+{
+  "version": "1.1.0",
+  "name": "Recharge All",
+  "description": "Choose your Favortite Recharge flatform from RECHARGEALL Application",
+  "launch_path": "/index.html",
+    "icons": {
+    "128": "/Icon/icon01.png"
+  },
+  "developer": {
+    "name": "RAJA JODDAR (OAD Group)",
+    "url": "https://twitter.com/RajaJoddar"
+  },
+  "installs_allowed_from": ["*"],
+ "default_locale": "en"
+
+}
